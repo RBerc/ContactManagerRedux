@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManagerRedux", "ContactManagerRedux\ContactManagerRedux.csproj", "{91F4872D-0DD9-46B6-B15B-AF9FA191E491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManagerRedux.Tests", "ContactManagerRedux.Tests\ContactManagerRedux.Tests.csproj", "{66B49AE3-5CD1-45D5-9C4F-43DD90A37FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F4872D-0DD9-46B6-B15B-AF9FA191E491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F4872D-0DD9-46B6-B15B-AF9FA191E491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F4872D-0DD9-46B6-B15B-AF9FA191E491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F4872D-0DD9-46B6-B15B-AF9FA191E491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B49AE3-5CD1-45D5-9C4F-43DD90A37FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B49AE3-5CD1-45D5-9C4F-43DD90A37FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B49AE3-5CD1-45D5-9C4F-43DD90A37FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B49AE3-5CD1-45D5-9C4F-43DD90A37FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {664FF46B-D984-42F4-8DF5-2B96AB67C1B5}
+	EndGlobalSection
+EndGlobal
